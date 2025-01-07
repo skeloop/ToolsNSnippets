@@ -1,0 +1,32 @@
+# Diese Zeile wird nicht im Terminal angezeigt da sie mit '#' beginnt.
+# Leere Zeilen werden ebenfalls nicht im Terminal angezeigt. Dies kann mit einem Leerzeichen ' ' umgangen werden
+
+ META Editor  || Öffnen       || Speichern    || Speichern unter    || Outbound      || Inbound synchronisieren   
+              || [STRG + O]   || [STRG + S]   || [STRG + N]         || [STRG + U]    || [STRG + I]                
+$≡
+ KI-Assistent || Kein Zugriff auf diese Datei $W                    || Assistent verweisen
+              || Funktion deaktiviert                              || [STRG + A] 
+$-
+ⵙꕹ @FILENAME | @PATH                                                                                                    
+$-
+1  | @TEXT
+2  |
+3  |
+4  |
+5  |
+6  | 
+7  |
+8  |
+9  |
+10 |
+11 |
+12 |
+13 |
+14 |
+15 |
+16 |
+17 |
+18 |
+19 |
+20 |
+...|
